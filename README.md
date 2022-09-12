@@ -1,2 +1,3 @@
-# trybe-exerc-cios
+# trybe-exercícios
 exercícios da trybe
+
