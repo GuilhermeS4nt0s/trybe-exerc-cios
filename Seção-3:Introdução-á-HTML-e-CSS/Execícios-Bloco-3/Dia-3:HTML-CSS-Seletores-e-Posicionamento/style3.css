@@ -1,0 +1,9 @@
+h1, p{
+  text-align: center;
+  
+}
+
+ul li{
+ width: 10px;
+ margin: auto;   
+}
