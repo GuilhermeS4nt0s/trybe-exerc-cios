@@ -32,6 +32,15 @@ console.log(resultadoDoResto);
 
 //Segundo Exercicio
 
+const primeiroNumero = 2;
+const segundoNumero = 1;
+
+if(primeiroNumero >= segundoNumero){
+    console.log("Primeiro Numero é maior");
+}else{(segundoNumero >= primeiroNumero)
+    console.log("Segundo Numero é maior");
+}
+
 
 
 
