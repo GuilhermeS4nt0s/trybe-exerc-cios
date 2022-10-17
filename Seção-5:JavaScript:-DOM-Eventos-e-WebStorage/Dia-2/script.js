@@ -1,0 +1,23 @@
+
+
+<main id="paiDoPai">
+  <section id="pai">
+    <section id="primeiroFilho"></section>
+    <section id="elementoOndeVoceEsta">
+      <section id="primeiroFilhoDoFilho"></section>
+      <section id="segundoEUltimoFilhoDoFilho"></section>
+    </section>
+    Atenção!
+    <section id="terceiroFilho"></section>
+    <section id="quartoEUltimoFilho"></section>
+  </section>
+</main>
+    
+
+document.querySelector(".elementoOndeVoceEsta")
+
+document.querySelector(".elementoOndeVoceEsta").parentNode.color = 'blue'
+
+document.querySelector("pri")
+
+

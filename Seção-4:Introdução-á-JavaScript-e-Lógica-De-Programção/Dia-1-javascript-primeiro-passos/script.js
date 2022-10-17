@@ -40,6 +40,57 @@ if(primeiroNumero >= segundoNumero){
 }else{(segundoNumero >= primeiroNumero)
     console.log("Segundo Numero é maior");
 }
+//////////////////////////
+
+const primeiroNumero1 = 5;
+const segundoNumero1  = 4;
+const terceiroNumero  = 7;
+
+if(segundoNumero1>= primeiroNumero1){
+    console.log("Primeiro Numero é maior");
+}else if(primeiroNumero1 <= segundoNumero1){
+    console.log("Segundo Numero é maior");
+}else{(terceiroNumero >= primeiroNumero1 && segundoNumero1)
+    console.log("Terceiro Numero é maior")
+}
+///////////////////////////
+
+const parametro == "positive"
+ 
+
+if(parametro = "positive"){
+    console.log("O parametro é positive");
+}else if(parametro = "negative"){
+    console.log("O parametro é negativo");
+}else{(parametro = "zero");
+    console.log("O parametro é zero")
+}
+//////////////////////////
+
+
+
+
+
+const primeiroAngulo = 60;
+const segundoAngulo  = 60;
+const terceiroAngulo = 60;
+
+let somaDosAngulos   = primeiroAngulo + segundoAngulo + terceiroAngulo;
+
+let 
+
+
+if(){
+    console.log("true")
+}else{()
+    console.log("false")
+}
+
+
+
+
+
+
 
 
 
